@@ -1,7 +1,6 @@
 ## Documentación IU - Desarrollo de Interfaces - 2º Trimestre
 
-**Pedro Barrante Vázquez**
-**Jaime González Corchero**
+### **Pedro** & **Jaime** a.k.a: "Los Compis"
 
 ### Introducción
 
