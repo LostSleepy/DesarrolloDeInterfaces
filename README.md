@@ -49,9 +49,6 @@ El diseño de la interfaz se basa en los principios del Diseño Centrado en el U
 
 ### Diseño de la Interfaz
 
-*   **Diagrama de casos de uso:** (Incluir imagen del diagrama de casos de uso)
-*   **Wireframes:** (Incluir imágenes de los wireframes)
-*   **Prototipos:** (Enlace al prototipo en Figma)
 *   **Guías de Estilo:**
     *   Paleta de colores.
     *   Tipografía (Fuente: Lexend).
