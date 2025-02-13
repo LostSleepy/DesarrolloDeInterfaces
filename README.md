@@ -64,7 +64,7 @@ Se realizaron pruebas unitarias utilizando JUnit y el IDE Eclipse. Los resultado
 
 *   **Metodologías de Pruebas:** Se realizó una encuesta para recopilar opiniones de usuarios sobre la usabilidad, estética y funcionalidades de la interfaz.
 *   **Resultados Interfaz:** Los resultados de la encuesta fueron mayoritariamente positivos, con áreas de mejora identificadas en la navegación, el uso del color, la legibilidad y la claridad de ciertos elementos.
-*   **Video de la app:** (Enlace al video en Github)
+*   **Video de la app:** En el repo :)
 
 ### Recomendaciones y Pasos a Seguir
 
